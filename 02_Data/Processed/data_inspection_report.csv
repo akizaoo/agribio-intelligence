@@ -1,0 +1,11 @@
+Column,Data_Type,Missing_Values,Unique_Values
+Crop,str,0,55
+Crop_Year,int64,0,24
+Season,str,0,6
+State,str,0,30
+Area,float64,0,13644
+Production,int64,0,14016
+Annual_Rainfall,float64,0,634
+Fertilizer,float64,0,18598
+Pesticide,float64,0,17405
+Yield,float64,0,13551

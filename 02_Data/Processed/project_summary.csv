@@ -1,0 +1,14 @@
+Metric,Value
+Project,AgriBio Intelligence
+Original_Rows,19689
+Final_Rows,19689
+Columns,10
+Duplicates_Removed,0
+Yield_Column,Yield
+Production_Column,Production
+Rainfall_Column,Annual_Rainfall
+Fertilizer_Column,Fertilizer
+Pesticide_Column,Pesticide
+Crop_Column,Crop
+Season_Column,Season
+Location_Column,State

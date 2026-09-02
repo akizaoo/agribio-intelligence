@@ -1,0 +1,11 @@
+Column,Missing_After_Cleaning,Unique_Values,Data_Type
+Crop,0,55,str
+Crop_Year,0,24,int64
+Season,0,6,str
+State,0,30,str
+Area,0,13644,float64
+Production,0,14016,int64
+Annual_Rainfall,0,634,float64
+Fertilizer,0,18598,float64
+Pesticide,0,17405,float64
+Yield,0,13551,float64
